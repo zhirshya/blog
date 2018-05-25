@@ -12,10 +12,12 @@ Here I would like to propose native replacements for a few misused or improper M
     <img src="{{ "/images/correction_proposal_for_6_Mongolian_words.jpg" | absolute_url }}" alt="6 misused words in Minegolia" style="width:100%;" >
 </div>
 
-I also recoreded my speaking of the picture, please check out the below video:<p>
+<div> 
+I also recoreded my speaking of the picture, please check out the below video:
 <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/kMA9iKvG4i8?autoplay=1&origin=http://zhirshya.github.io"
   frameborder="0"></iframe>
+</div>
 
 I wish my proposal could reach to the attention of Minegolian linguists, dictionary compilers, textbook writers as well as paper and online editors,etc. to hopefully see them corrected in near future.
 
