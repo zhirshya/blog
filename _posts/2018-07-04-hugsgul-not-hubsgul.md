@@ -10,5 +10,5 @@ The original meaning of the lake's name has to do with 'хөг(ᠬᠦᠭ)' which
 See the explanation below given by renowned scholar C.Galsan.
  
 <div>
-    <img src="{{ "/images/hugsugul_tms.jpg" | absolute_url }}" alt="Hugsgul Not Hubsgul!" style="width:100%;" >
+    <img src="{{ "/images/hugsugul_tms.jpg" | absolute_url }}" alt="Hugsgul Not Hubsgul!" style="width:60%;" >
 </div>
