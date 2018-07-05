@@ -9,7 +9,7 @@ I speak native Mongolian and write in vertical Mongolian script. Also, I have ba
 Here I would like to propose native replacements for a few misused or improper Mongolian words, as in the following picture.
 
 <div> 
-    <img src="{{ "/images/correction_proposal_for_6_Mongolian_words.jpg" | absolute_url }}" alt="6 misused words in Minegolia" style="width:60%;" >
+    <img src="{{ "/images/correction_proposal_for_6_Mongolian_words.jpg" | absolute_url }}" alt="6 misused words in Minegolia" style="width:50%;" >
 </div>
 
 <div> 
