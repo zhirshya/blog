@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Problem of Bainu App for Android ?
+title: A Problem of Bainu App for Android?
 date: 2018-07-11
 ---
 Bainu is a traditional Mongolian app for socialization, which has been developed by Zuga tech, Hohhot.
@@ -15,7 +15,7 @@ Whether using Shift with u, u followed with e or o followed with e don't make it
 I wrote this question using Delehi IME and AronWriter on Windows, as below.
 
 <div>
-    <img src="{{ "/images/6th-7th-vowel-Bainu.jpeg" | absolute_url }}" alt="How to input 6th and 7th Mongolian vowels in Bainu" style="height:50%;" >
+    <img src="{{ "/images/6th-7th-vowel-Bainu.jpeg" | absolute_url }}" alt="How to input 6th and 7th Mongolian vowels in Bainu" style="height:60%;" >
 </div>
 
 Since I don't have iPhone, I don't know if its iOS counterpart has similar problem or not.
