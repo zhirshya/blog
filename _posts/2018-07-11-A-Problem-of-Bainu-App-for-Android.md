@@ -15,7 +15,7 @@ Whether using Shift with u, u followed with e or o followed with e don't make it
 I wrote this question using Delehi IME and AronWriter on Windows, as below.
 
 <div>
-    <img src="{{ "/images/6th-7th-vowel-Bainu.jpeg" | absolute_url }}" alt="How to input 6th and 7th Mongolian vowels in Bainu" style="width:50%;" >
+    <img src="{{ "/images/6th-7th-vowel-Bainu.jpeg" | absolute_url }}" alt="How to input 6th and 7th Mongolian vowels in Bainu" style="height:50%;" >
 </div>
 
 Since I don't have iPhone, I don't know if its iOS counterpart has similar problem or not.
