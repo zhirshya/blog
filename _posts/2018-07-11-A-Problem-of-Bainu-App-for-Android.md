@@ -1,6 +1,6 @@
 ---
 layout: post
-title:A Problem of Bainu App for Android ?
+title: A Problem of Bainu App for Android ?
 date: 2018-07-11
 ---
 Bainu is a traditional Mongolian app for socialization, which has been developed by Zuga tech, Hohhot.
