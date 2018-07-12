@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hugsgul Not Hubsgul!
+title: Lake **Hugsgul(ᠬᠦᠭᠰᠦᠭᠦᠯ)**, Not **Hubsgul(ᠬᠦᠪᠰᠦᠭᠦᠯ)**!
 date: 2018-07-04
 ---
 Lake **Hugsgul(ᠬᠦᠭᠰᠦᠭᠦᠯ)** is a famous tour spot of Mongolia.
