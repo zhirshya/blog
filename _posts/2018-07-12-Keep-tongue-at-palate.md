@@ -9,11 +9,11 @@ date: 2018-07-12
 I have significant overbite and displaced dental midline, which have caused me slight facial asymmetry.
 I have to train myself for:
 <ul>
-**<li>lips closed together</li>**
-**<li>upper and lower teeth aligned and gently touching</li>**
-**<li>tongue pushing against palate</li>**
-**<li>NOT sucking teeth while swallowing</li>**
-**<li>breathing through nose</li>**
+<li>**lips closed together**</li>
+<li>**upper and lower teeth aligned and gently touching**</li>
+<li>**tongue pushing against palate**</li>
+<li>**NOT sucking teeth while swallowing**</li>
+<li>**breathing through nose**</li>
 </ul>
 
 Check out following videos presented by Professor John Mew and Dr. Mike Mew (father and son).
