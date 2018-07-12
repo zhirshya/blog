@@ -9,8 +9,8 @@ It somehow feels like tinder, which I have never used, ever.
 
 I'm not photogenic at all. I just wanted to give it a try, maybe I could meet a woman who knows traditional Mongolian and hopefully also gets interested in befriending with me.
 
-So I posted some notes by using its built-in keyboard. One problem baffles me since the last use is how to write(input) the 6th and 7th Mongolian vowels in Bainu.
-Whether using Shift with u, u followed with e or o followed with e don't make it.
+So I posted some notes by using its built-in keyboard. One problem baffles me since the last use is how to write(input) the _**6th and 7th Mongolian vowels**_ in Bainu.
+Whether using **Shift with u**, **u followed with e** or **o followed with e** don't make it.
 
 I wrote this question using Delehi IME and AronWriter on Windows, as below.
 
