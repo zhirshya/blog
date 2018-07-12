@@ -3,16 +3,18 @@ layout: post
 title: Keep Tongue at Palate!
 date: 2018-07-12
 ---
-keywords: Orthotropics, tongue, palate, retruded jaw, mandible, cranial distortion, midline discrepancy, displaced dental midline, facial asymmetry
+**keywords**: Orthotropics, tongue, palate, retruded jaw, mandible, cranial distortion, midline discrepancy, displaced dental midline, facial asymmetry.
 
 
 I have significant overbite and displaced dental midline, which have caused me slight facial asymmetry.
 I have to train myself for:
-<ol>**lips closed together**</ol>
-<ol>**upper and lower teeth aligned and gently touching**</ol>
-<ol>**tongue pushing against palate**</ol>
-<ol>**NOT sucking teeth while swallowing**</ol>
-<ol>**breathing through nose**</ol>
+<ol>
+<li>**lips closed together**</li>
+<li>**upper and lower teeth aligned and gently touching**</li>
+<li>**tongue pushing against palate**</li>
+<li>**NOT sucking teeth while swallowing**</li>
+<li>**breathing through nose**</li>
+</ol>
 
 Check out following videos presented by Professor John Mew and Dr. Mike Mew (father and son).
 
