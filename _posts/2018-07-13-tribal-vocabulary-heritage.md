@@ -9,7 +9,7 @@ Since then, the massive excessive Han immigration completely outnumbered us the 
 <p>
 We do use until today a few **interesting native words** which have been abandoned for long time or have never ever been used by other Mongols.<br>
 For example:<br>
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 25%;">
 <ul>
 <li><b>ᠰᠣᠨᠢᠭᠣᠬᠠᠨ</b></li>
 <li><b>ᠭᠦᠦᠷᠡᠬᠦ</b></li>
@@ -22,7 +22,7 @@ For example:<br>
 <li><b>ᠪᠦᠦᠷᠬᠡ</b></li>
 </ul>
 </div>
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 75%;">
 <ul>
 <li><b>rare and delightful</b></li>
 <li><b>understand, grok</b></li>
