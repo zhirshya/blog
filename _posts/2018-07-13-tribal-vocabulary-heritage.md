@@ -1,8 +1,9 @@
 ---
 layout: post
-title: tribal vocabulary heritage(**ᠣᠳᠣᠮ ᠦᠨ ᠬᠡᠯᠡᠯᠭᠡ: ᠪᠠᠷᠭᠣ ᠬᠡᠯᠡᠯᠭᠡ**)
+title: tribal vocabulary heritage
 date: 2018-07-13
 ---
+**ᠣᠳᠣᠮ ᠦᠨ ᠬᠡᠯᠡᠯᠭᠡ: ᠪᠠᠷᠭᠣ ᠬᠡᠯᠡᠯᠭᠡ**:<br>
 Majority of Bargu(**ᠪᠠᠷᠭᠣ**) people in Hulunbuir have preserved well our Mongolian language and culture until around 1960.
 Since then, the massive excessive Han immigration completely outnumbered us the indigenous people, and the assimilation induced gradual loss and impurification of our language and culture.
 <p>
