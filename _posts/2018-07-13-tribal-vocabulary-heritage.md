@@ -9,14 +9,29 @@ Since then, the massive excessive Han immigration completely outnumbered us the 
 <p>
 We do use until today a few **interesting native words** which have been abandoned for long time or have never ever been used by other Mongols.<br>
 For example:<br>
+<div style="float: left; width: 50%;">
 <ul>
-<li><b>ᠰᠣᠨᠢᠭᠣᠬᠠᠨ(rare and delightful)</b></li>
-<li><b>ᠭᠦᠦᠷᠡᠬᠦ(understand, grok)</b></li>
-<li><b>ᠪᠢᠰᠢᠭᠦᠷᠬᠡᠬᠦ( _Vi._ shy away)</b></li>
-<li><b>ᠣᠢᠲᠣᠭ (that thing, animal or human near the listener)</b></li>
-<li><b>ᠮᠣᠨᠲᠣᠷᠬᠠᠢ ( _adj._ round)</b></li>
-<li><b>ᠦᠲᠦᠭ ᠡ ("ᠦᠲᠦᠭ" means "dung"; + exclamation "ᠡ " means "Oh shit(surprised)"</b></li>
-<li><b>ᠯᠠᠮᠠ ᠠ (equivalent of "Oh my God")</b></li>
-<li><b>ᠪᠣᠷᠬᠠᠨ ᠠ (equivalent of "Oh my God")</b></li>
-<li><b>ᠪᠦᠦᠷᠬᠡ(pronounced "бүүрэх" and means "leather boot(I'm not certain)"?)</b></li>
+<li><b>ᠰᠣᠨᠢᠭᠣᠬᠠᠨ</b></li>
+<li><b>ᠭᠦᠦᠷᠡᠬᠦ</b></li>
+<li><b>ᠪᠢᠰᠢᠭᠦᠷᠬᠡᠬᠦ</b></li>
+<li><b>ᠣᠢᠲᠣᠭ</b></li>
+<li><b>ᠮᠣᠨᠲᠣᠷᠬᠠᠢ</b></li>
+<li><b>ᠦᠲᠦᠭ ᠡ </b></li>
+<li><b>ᠯᠠᠮᠠ ᠠ </b></li>
+<li><b>ᠪᠣᠷᠬᠠᠨ ᠠ </b></li>
+<li><b>ᠪᠦᠦᠷᠬᠡ</b></li>
 </ul>
+</div>
+<div style="float: right; width: 50%;">
+<ul>
+<li><b>rare and delightful</b></li>
+<li><b>understand, grok</b></li>
+<li><b><i>Vi.</i> shy away</b></li>
+<li><b>that thing, animal or human near the listener</b></li>
+<li><b><i>adj.</i> round</b></li>
+<li><b>"ᠦᠲᠦᠭ" means "dung"; + exclamation "ᠡ " means "Oh shit(surprised)"</b></li>
+<li><b>equivalent of "Oh my God"</b></li>
+<li><b>equivalent of "Oh my God"</b></li>
+<li><b>pronounced "бүүрэх" and means "leather boot"? <i>※I'm not certain</i></b></li>
+</ul>
+</div>
