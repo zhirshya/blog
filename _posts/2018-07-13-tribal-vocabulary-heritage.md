@@ -19,7 +19,7 @@ For example:<br>
 <li><b>ᠦᠲᠦᠭ ᠡ </b></li>
 <li><b>ᠯᠠᠮᠠ ᠠ </b></li>
 <li><b>ᠪᠣᠷᠬᠠᠨ ᠠ </b></li>
-<li><b>ᠪᠦᠦᠷᠬᠡ</b></li>
+<li><b>ᠪᠦᠦᠷᠬᠡ(ᠪᠦᠭᠦᠷᠬᠡ?)</b></li>
 </ul>
 </div>
 <div style="float: right; width: 75%;">
