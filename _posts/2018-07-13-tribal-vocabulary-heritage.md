@@ -28,7 +28,7 @@ For example:<br>
 <li><b>understand, grok</b></li>
 <li><b><i>Vi.</i> shy away</b></li>
 <li><b>that thing, animal or human near the listener</b></li>
-<li><b><i>adj.</i> round</b></li>
+<li><b><i>Adj.</i> round</b></li>
 <li><b>Oh shit(ᠦᠲᠦᠭ: dung)"</b></li>
 <li><b>equivalent of "Oh my God"</b></li>
 <li><b>equivalent of "Oh my God"</b></li>
