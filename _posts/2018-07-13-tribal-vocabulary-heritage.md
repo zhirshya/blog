@@ -29,9 +29,9 @@ For example:<br>
 <li><b><i>Vi.</i> shy away</b></li>
 <li><b>that thing, animal or human near the listener</b></li>
 <li><b><i>adj.</i> round</b></li>
-<li><b>"ᠦᠲᠦᠭ" means "dung"; + exclamation "ᠡ " means "Oh shit(surprised)"</b></li>
+<li><b>Oh shit(ᠦᠲᠦᠭ: dung)"</b></li>
 <li><b>equivalent of "Oh my God"</b></li>
 <li><b>equivalent of "Oh my God"</b></li>
-<li><b>pronounced "бүүрэх" and means "leather boot"? <i>※I'm not certain</i></b></li>
+<li><b>pronounced "бүүрэх" and means "leather boot" <i>※ May be wrong word for this meaning.</i></b></li>
 </ul>
 </div>
