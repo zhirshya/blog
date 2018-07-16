@@ -21,6 +21,8 @@ For example:<br>
 <li><b>ᠪᠣᠷᠬᠠᠨ ᠠ </b></li>
 <li><b>ᠪᠦᠦᠷᠬᠡ(ᠪᠦᠭᠦᠷᠬᠡ?)</b></li>
 <li><b>ᠣᠭᠣᠳᠣᠩ</b></li>
+<li><b>ᠬᠡᠥᠳᠡᠢ</b></li>
+<li><b>ᠦᠪᠦᠦ</b></li>
 </ul>
 </div>
 <div style="float: right; width: 75%;">
@@ -35,5 +37,7 @@ For example:<br>
 <li><b>equivalent of "Oh my God"</b></li>
 <li><b>pronounced "бүүрэх" and means "leather boot" <i>※ May be wrong word for this meaning.</i></b></li>
 <li><b>short<i>(synonym of ᠪᠣᠭᠣᠨᠢ)</i></b></li>
+<li><b>pocket</b></li>
+<li><b>grandfather</b></li>
 </ul>
 </div>
