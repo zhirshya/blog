@@ -23,6 +23,7 @@ For example:<br>
 <li><b>ᠣᠭᠣᠳᠣᠩ</b></li>
 <li><b>ᠬᠡᠥᠳᠡᠢ</b></li>
 <li><b>ᠦᠪᠦᠦ</b></li>
+<li><b>ᠯᠠᠵᠠ</b></li>
 </ul>
 </div>
 <div style="float: right; width: 75%;">
@@ -39,5 +40,6 @@ For example:<br>
 <li><b>short<i>(synonym of ᠪᠣᠭᠣᠨᠢ)</i></b></li>
 <li><b>pocket</b></li>
 <li><b>grandfather</b></li>
+<li><b>can <i>n.</i></b></li>
 </ul>
 </div>
