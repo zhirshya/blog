@@ -24,6 +24,7 @@ For example:<br>
 <li><b>ᠬᠡᠥᠳᠡᠢ</b></li>
 <li><b>ᠦᠪᠦᠦ</b></li>
 <li><b>ᠯᠠᠵᠠ</b></li>
+<li><b>ᠣᠮᠣᠭ</b><br>(tribal preference over ᠣᠪᠣᠭ)</li>
 </ul>
 </div>
 <div style="float: right; width: 75%;">
@@ -41,5 +42,6 @@ For example:<br>
 <li><b>pocket</b></li>
 <li><b>grandfather</b></li>
 <li><b>can <i>n.</i></b></li>
+<li><b>surname, family name</b></li>
 </ul>
 </div>
