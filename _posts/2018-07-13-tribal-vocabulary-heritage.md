@@ -14,17 +14,18 @@ For example:<br>
 <li><b>ᠰᠣᠨᠢᠭᠣᠬᠠᠨ</b></li>
 <li><b>ᠭᠦᠦᠷᠡᠬᠦ</b></li>
 <li><b>ᠪᠢᠰᠢᠭᠦᠷᠬᠡᠬᠦ</b></li>
-<li><b>ᠣᠢᠲᠣᠭ</b></li>
+<li><b>ойтог: ᠣᠢᠲᠣᠭ</b></li>
 <li><b>ᠮᠣᠨᠲᠣᠷᠬᠠᠢ</b></li>
 <li><b>ᠦᠲᠦᠭ ᠡ </b></li>
 <li><b>ᠯᠠᠮᠠ ᠠ </b></li>
 <li><b>ᠪᠣᠷᠬᠠᠨ ᠠ </b></li>
 <li><b>ᠪᠦᠦᠷᠬᠡ(ᠪᠦᠭᠦᠷᠬᠡ?)</b></li>
 <li><b>ᠣᠭᠣᠳᠣᠩ</b></li>
-<li><b>ᠬᠡᠥᠳᠡᠢ</b></li>
+<li><b>хүүдий(?): ᠬᠡᠥᠳᠡᠢ</b></li>
 <li><b>ᠦᠪᠦᠦ</b></li>
 <li><b>ᠯᠠᠵᠠ</b></li>
 <li><b>ᠣᠮᠣᠭ</b><br>(tribal preference over ᠣᠪᠣᠭ)</li>
+<li><b>холгуур:ᠬᠣᠯᠭᠤᠷ,ᠬᠣᠯᠭᠣᠭᠣᠷ(?),ᠬᠣᠯᠭᠠᠭᠣᠷ</b></li>
 </ul>
 </div>
 <div style="float: right; width: 75%;">
@@ -43,5 +44,6 @@ For example:<br>
 <li><b>grandfather</b></li>
 <li><b>can <i>n.</i></b></li>
 <li><b>surname, family name</b></li>
+<li><b>indecent(?) human</b></li>
 </ul>
 </div>
