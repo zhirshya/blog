@@ -9,7 +9,7 @@ Since then, the massive excessive Han immigration completely outnumbered us the 
 <p>
 We do use until today a few **interesting native words** which have been abandoned for long time or have never ever been used by other Mongols.<br>
 For example:<br>
-<div style="float: left; width: 25%;">
+<div style="float: left; width: 50%;">
 <ul>
 <li><b>ᠰᠣᠨᠢᠭᠣᠬᠠᠨ</b></li>
 <li><b>ᠭᠦᠦᠷᠡᠬᠦ</b></li>
@@ -17,8 +17,7 @@ For example:<br>
 <li><b>ойтог: ᠣᠢᠲᠣᠭ</b></li>
 <li><b>ᠮᠣᠨᠲᠣᠷᠬᠠᠢ</b></li>
 <li><b>ᠦᠲᠦᠭ ᠡ </b></li>
-<li><b>ᠯᠠᠮᠠ ᠠ </b></li>
-<li><b>ᠪᠣᠷᠬᠠᠨ ᠠ </b></li>
+<li><b>ᠯᠠᠮᠠ ᠠ , ᠪᠣᠷᠬᠠᠨ ᠠ </b></li>
 <li><b>ᠪᠦᠦᠷᠬᠡ(ᠪᠦᠭᠦᠷᠬᠡ?)</b></li>
 <li><b>ᠣᠭᠣᠳᠣᠩ</b></li>
 <li><b>хүүдий(?): ᠬᠡᠥᠳᠡᠢ</b></li>
@@ -29,7 +28,7 @@ For example:<br>
 <li><b>холгуур:ᠬᠣᠯᠭᠤᠷ,ᠬᠣᠯᠭᠣᠭᠣᠷ(?),ᠬᠣᠯᠭᠠᠭᠣᠷ</b></li>
 </ul>
 </div>
-<div style="float: right; width: 75%;">
+<div style="float: right; width: 50%;">
 <ul>
 <li><b>rare and delightful</b></li>
 <li><b>understand, grok</b></li>
@@ -37,7 +36,6 @@ For example:<br>
 <li><b>that thing, animal or human near the listener</b></li>
 <li><b><i>Adj.</i> round</b></li>
 <li><b>Oh shit(ᠦᠲᠦᠭ: dung)"</b></li>
-<li><b>equivalent of "Oh my God"</b></li>
 <li><b>equivalent of "Oh my God"</b></li>
 <li><b>pronounced "бүүрэх" and means "leather boot" <i>※ May be wrong word for this meaning.</i></b></li>
 <li><b>short<i>(synonym of ᠪᠣᠭᠣᠨᠢ)</i></b></li>
