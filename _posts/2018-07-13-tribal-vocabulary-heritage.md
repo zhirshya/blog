@@ -25,6 +25,7 @@ For example:<br>
 <li><b>ᠦᠪᠦᠦ</b></li>
 <li><b>ᠯᠠᠵᠠ</b></li>
 <li><b>ᠣᠮᠣᠭ</b><br>(tribal preference over ᠣᠪᠣᠭ)</li>
+<li><b>ᠬᠣᠭᠵᠢᠷᠠᠤ,ᠬᠣᠭᠵᠢᠷᠠᠭᠤ? :хогжруу</b></li>
 <li><b>холгуур:ᠬᠣᠯᠭᠤᠷ,ᠬᠣᠯᠭᠣᠭᠣᠷ(?),ᠬᠣᠯᠭᠠᠭᠣᠷ</b></li>
 </ul>
 </div>
@@ -44,6 +45,7 @@ For example:<br>
 <li><b>grandfather</b></li>
 <li><b>can <i>n.</i></b></li>
 <li><b>surname, family name</b></li>
+<li><b>scales, dandruff</b></li>
 <li><b>indecent(?) human</b></li>
 </ul>
 </div>
