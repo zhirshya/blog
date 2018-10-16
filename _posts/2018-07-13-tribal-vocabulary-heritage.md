@@ -4,7 +4,7 @@ title: tribal vocabulary heritage
 date: 2018-07-13
 ---
 **ᠣᠳᠣᠮ ᠤᠨ ᠬᠡᠯᠡᠯᠭᠡ: ᠪᠠᠷᠭᠣ ᠬᠡᠯᠡᠯᠭᠡ**:<br>
-Majority of Bargu(**ᠪᠠᠷᠭᠣ**) people in Hulunbuir have preserved well our Mongolian language and culture until around 1960.
+Majority of Bargu(**Барга, ᠪᠠᠷᠭᠣ**) people in Hulunbuir have preserved well our Mongolian language and culture until around 1960.
 Since then, the massive excessive Han immigration completely outnumbered us the indigenous people, and the assimilation induced gradual loss and impurification of our language and culture.
 <p>
 We do use until today a few **interesting native words** which have been abandoned for long time or have never ever been used by other Mongols.<br>
@@ -26,6 +26,8 @@ For example:<br>
 <li><b>ᠣᠮᠣᠭ</b><br>(tribal preference over ᠣᠪᠣᠭ)</li>
 <li><b>ᠬᠣᠭᠵᠢᠷᠠᠤ,ᠬᠣᠭᠵᠢᠷᠠᠭᠤ? :хогжруу</b></li>
 <li><b>холгуур:ᠬᠣᠯᠭᠤᠷ,ᠬᠣᠯᠭᠣᠭᠣᠷ(?),ᠬᠣᠯᠭᠠᠭᠣᠷ</b></li>
+<li><b>бүхээри,бүхээнди</b></li>
+<li><b>биргэл</b></li>
 </ul>
 </div>
 <div style="float: right; width: 65%;">
@@ -45,5 +47,7 @@ For example:<br>
 <li><b>surname, family name</b></li>
 <li><b>scales, dandruff</b></li>
 <li><b>indecent(?) human</b></li>
+<li><b>that dude</b></li>
+<li><b>caterpillar</b></li>
 </ul>
 </div>
