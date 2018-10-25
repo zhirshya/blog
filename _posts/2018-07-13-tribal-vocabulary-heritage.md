@@ -28,6 +28,8 @@ For example:<br>
 <li><b>холгуур:ᠬᠣᠯᠭᠤᠷ,ᠬᠣᠯᠭᠣᠭᠣᠷ(?),ᠬᠣᠯᠭᠠᠭᠣᠷ</b></li>
 <li><b>бүхээри,бүхээнди</b></li>
 <li><b>биргэл</b></li>
+<li><b>ᠬᠠᠯᠠᠬᠤ ᠢᠨ ᠲᠣᠯᠤᠭᠠᠢ</b></li>
+
 </ul>
 </div>
 <div style="float: right; width: 65%;">
@@ -49,5 +51,6 @@ For example:<br>
 <li><b>indecent(?) human</b></li>
 <li><b>that dude</b></li>
 <li><b>caterpillar</b></li>
+<li><b>scalding hot</b></li>
 </ul>
 </div>
