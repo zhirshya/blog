@@ -29,6 +29,8 @@ For example:<br>
 <li><b>бүхээри,бүхээнди</b></li>
 <li><b>биргэл</b></li>
 <li><b>ᠬᠠᠯᠠᠬᠤ ᠢᠨ ᠲᠣᠯᠤᠭᠠᠢ</b></li>
+<li><b>ᠳᠤᠭᠤᠯᠣᠭ᠎ᠠ  ᠦᠭᠡᠢ</b></li>
+<li><b>ᠳᠤᠭᠤᠯᠳᠣᠭ᠎ᠠ ᠦᠭᠡᠢ</b></li>
 
 </ul>
 </div>
@@ -52,5 +54,7 @@ For example:<br>
 <li><b>that dude</b></li>
 <li><b>caterpillar</b></li>
 <li><b>scalding hot</b></li>
+<li><b>didn't hear, haven't heard</b></li>
+<li><b>(of sounds and voices) haven't been heard</b></li>
 </ul>
 </div>
