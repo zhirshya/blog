@@ -31,6 +31,7 @@ For example:<br>
 <li><b>ᠬᠠᠯᠠᠬᠤ ᠢᠨ ᠲᠣᠯᠤᠭᠠᠢ</b></li>
 <li><b>ᠳᠤᠭᠤᠯᠣᠭ᠎ᠠ  ᠦᠭᠡᠢ</b></li>
 <li><b>ᠳᠤᠭᠤᠯᠳᠣᠭ᠎ᠠ ᠦᠭᠡᠢ</b></li>
+<li><b>ᠴᠠᠭᠠᠨ ᠳᠠᠢᠷᠠᠭ(дайраг)</b></li>
 
 </ul>
 </div>
@@ -56,5 +57,6 @@ For example:<br>
 <li><b>scalding hot</b></li>
 <li><b>didn't hear, haven't heard</b></li>
 <li><b>(of sounds and voices) haven't been heard</b></li>
+<li><b>all white (of an area after snow or snow storm)</b></li>
 </ul>
 </div>
